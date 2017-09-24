@@ -1,0 +1,2 @@
+# cg
+Pràctiques de cg
